@@ -1,0 +1,1 @@
+select p.first_name , p.last_name , a.city , a.state from person p left join address a using(person_id);
