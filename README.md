@@ -19,7 +19,7 @@ This repository automatically tracks my daily problem-solving progress on [NeetC
 
 ## 🗂️ Repository Structure
 
-├── README.md # This file
+├── README.md
 └── (auto-generated commits reflecting solved problems)
 
 ## 🚀 Why I'm Doing This
