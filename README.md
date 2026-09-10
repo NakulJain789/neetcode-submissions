@@ -18,6 +18,7 @@ This repository automatically tracks my daily problem-solving progress on [NeetC
 | **Tracked via** | GitHub commit history / contribution graph |
 
 ## 🗂️ Repository Structure
+
 ├── README.md # This file
 └── (auto-generated commits reflecting solved problems)
 
